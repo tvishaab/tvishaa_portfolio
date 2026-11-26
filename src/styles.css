@@ -622,7 +622,7 @@ a.award-row:hover{background:var(--surface);border-color:var(--ink);transform:tr
    ================================================================== */
 
 
-.prose{max-width:100ch}
+.prose{max-width:120ch}
 .prose p{
   color:var(--muted);font-size:17.5px;line-height:1.8;margin-bottom:24px;
   text-align:justify;text-justify:inter-word;hyphens:auto;
