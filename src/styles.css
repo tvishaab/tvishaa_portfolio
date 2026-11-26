@@ -621,22 +621,10 @@ a.award-row:hover{background:var(--surface);border-color:var(--ink);transform:tr
    13. ABOUT
    ================================================================== */
 
-
 .prose{max-width:100ch}
 .prose p{
   color:var(--muted);font-size:17.5px;line-height:1.8;margin-bottom:24px;
   text-align:justify;text-justify:inter-word;hyphens:auto;
-}
-
-.about-photo{position:sticky;top:110px}
-.about-photo img{
-  width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center 30%;
-  border-radius:16px;display:block;border:1px solid var(--line);
-  box-shadow:var(--shadow-card-hover);
-}
-.about-photo figcaption{
-  margin-top:14px;font-family:var(--font-mono);font-size:12px;
-  letter-spacing:.12em;text-transform:uppercase;color:var(--dim);
 }
 
 /* ==================================================================
